@@ -3,8 +3,8 @@ en:
   weight: 1
   ### copyright (markdown can be used) ###
   copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
-  title: "Site Title"
-  description: "Site Description"
+  title: "Strong Towns Halifax"
+  description: "Strong Towns Halifax promotes financially strong communities via smart urban planning: walkable neighborhoods, cycling, and transit for vibrant cities"
   params:
     ### accessibility ###
     accessibility:
@@ -24,32 +24,26 @@ en:
     main:
     - identifier: "about"
       name: "About"
+      url: "#"
+      weight: 1
+    - identifier: "strong-towns-hfx"
+      name: "Strong Towns Halifax"
       url: "/example-page/"
       weight: 1
-    - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 1
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
+      post: "What is Strong Towns Halifax?"
       parent: "about"
-    - identifier: "child-2"
-      name: "Example Child Page"
-      url: "/example-page/"
+    - identifier: "strong-towns"
+      name: "Strong Towns"
+      url: "/about/strong-towns"
       weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
-      parent: "about"
-    - identifier: "child-3"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 3
-      post: "Nulla consequat massa quis enim. Donec pede justo."
+      post: "What is the non profit Strong Towns."
       parent: "about"
     - identifier: "example"
-      name: "Example"
+      name: "Projects"
       url: "/example-page/"
       weight: 2
     - identifier: "example-1"
-      name: "Example Child Page"
+      name: "Maps"
       url: "/example-page/"
       weight: 1
       post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
@@ -78,28 +72,3 @@ en:
       name: "Blog"
       url: "/blog/"
       weight: 5
-es:
-  languageName: Spanish
-  contentDir: content/es
-  weight: 2
-  title: "Título del Sitio"
-  description: "Descripción del Sitio"
-  menu:
-    main:
-    - identifier: "about"
-      name: "Acerca de"
-      url: "/example-page/"
-      weight: 1
-    - identifier: "child-1"
-      name: "Página Hija de Ejemplo"
-      url: "/example-page/"
-      weight: 1
-      parent: "about"
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 2
