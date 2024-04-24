@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2024-04-24T06:59:38-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/event/</loc>
+    <lastmod>2024-04-10T07:23:53-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/events/</loc>
+    <lastmod>2024-04-10T07:22:38-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/join/</loc>
+    <lastmod>2024-04-10T07:10:50-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-04-10T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/meeting0/</loc>
+    <lastmod>2024-04-10T00:00:00-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/start-up/</loc>
+    <lastmod>2024-04-09T21:34:49-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/strong-towns-halifax/</loc>
+    <lastmod>2024-04-09T21:13:26-03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/strong-towns/</loc>
     <lastmod>2024-04-09T07:39:59-03:00</lastmod>
   </url><url>

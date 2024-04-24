@@ -8,6 +8,73 @@
             
                  
                 <item>
+                    <title>Contact</title>
+                    <link>http://localhost:1313/contact/</link>
+                    <pubDate>Wed, 24 Apr 2024 06:59:38 -0300</pubDate>
+                    <description>By email We will get back to you as soon as possible, do note however that we are a vonlonteer run organization.
+strongtownshalifax@gmail.com Social Media We have a social media presence on many platforms, please see the links below.
+Discord Instagram LinkedIn Twitter </description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Event</title>
+                    <link>http://localhost:1313/event/</link>
+                    <pubDate>Wed, 10 Apr 2024 07:23:53 -0300</pubDate>
+                    <description> </description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Events</title>
+                    <link>http://localhost:1313/events/</link>
+                    <pubDate>Wed, 10 Apr 2024 07:22:38 -0300</pubDate>
+                    <description> </description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Get Involved</title>
+                    <link>http://localhost:1313/join/</link>
+                    <pubDate>Wed, 10 Apr 2024 07:10:50 -0300</pubDate>
+                    <description>There are multiple ways to get involved with Strong Towns Halifax. The best way to get involved now and talk with fellow Strong Towns Halifax members is the discord server. There are also monthly meetups, see events page.</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>First Strong Towns Halifax Meeting!</title>
+                    <link>http://localhost:1313/blog/meeting0/</link>
+                    <pubDate>Wed, 10 Apr 2024 00:00:00 -0300</pubDate>
+                    <description>We just had our first meeting with 12 attendees! The meeting started with a short presentation and was than followed by a meet and greet where we discussed issues, goals, ideas, etc.
+Stay tuned for our next meeting.</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Build up</title>
+                    <link>http://localhost:1313/projects/start-up/</link>
+                    <pubDate>Tue, 09 Apr 2024 21:34:49 -0300</pubDate>
+                    <description>Strong Towns Halifax is a brand new conversation! We are building our online presence, discussing goals, having initial meetings.
+If you have an idea for a project, you can send it on this form or talk about it with us by getting involved</description>
+                </item>
+                
+            
+                 
+                <item>
+                    <title>Strong Towns Halifax</title>
+                    <link>http://localhost:1313/about/strong-towns-halifax/</link>
+                    <pubDate>Tue, 09 Apr 2024 21:13:26 -0300</pubDate>
+                    <description>Strong Towns Halifax is a conversation of Strong Towns, it is a hyper local advocacy group.</description>
+                </item>
+                
+            
+                 
+                <item>
                     <title>Strong Towns</title>
                     <link>http://localhost:1313/about/strong-towns/</link>
                     <pubDate>Tue, 09 Apr 2024 07:39:59 -0300</pubDate>

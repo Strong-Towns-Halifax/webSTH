@@ -1,8 +1,8 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-logo_on_white: "/img/logo-b.svg"
-logo_on_black: "/img/logo-w.svg"
+logo_on_white: "/STH-black.png"
+logo_on_black: "/STH-white.png"
 custom_js: []
 custom_css: []
 
@@ -17,24 +17,24 @@ github:
 
 social_links:
   devstats: ""
-  discord: ""
+  discord: "https://discord.gg/YGUTDTmshP"
   facebook: ""
   flickr: ""
-  github: "https://github.com/cncf/dot-org-hugo-theme"
-  instagram: ""
+  github: "https://github.com/Strong-Towns-Halifax"
+  instagram: "https://www.instagram.com/strongtownshfx/"
   landscape: ""
-  linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation"
+  linkedin: "https://www.linkedin.com/company/96921269/"
   mastodon: ""
   pinterest: ""
   rss: ""
   slack: ""
   stackoverflow: ""
   threads: ""
-  twitter: ""
+  twitter: "https://twitter.com/strongtownshali"
   x: ""
   youtube: ""
 
 # Makes the header sticky on tall screens
 sticky_header: true
 # Enable search in header UI
-show_search: true
+show_search: false

@@ -1,0 +1,21 @@
+<rss version="2.0">
+    <channel>
+        <title>Blog on Strong Towns Halifax</title>
+        <link>http://localhost:1313/blog/</link>
+        <description>Recent content in Strong Towns Halifax</description>
+
+         
+            
+                 
+                <item>
+                    <title>First Strong Towns Halifax Meeting!</title>
+                    <link>http://localhost:1313/blog/meeting0/</link>
+                    <pubDate>Wed, 10 Apr 2024 00:00:00 -0300</pubDate>
+                    <description>We just had our first meeting with 12 attendees! The meeting started with a short presentation and was than followed by a meet and greet where we discussed issues, goals, ideas, etc.
+Stay tuned for our next meeting.</description>
+                </item>
+                
+            
+        
+    </channel>
+</rss>

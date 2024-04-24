@@ -2,22 +2,17 @@ en:
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  copyright: "Copyright &copy; {{< current_year >}} Strong Towns Halifax. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "Strong Towns Halifax"
   description: "Strong Towns Halifax promotes financially strong communities via smart urban planning: walkable neighborhoods, cycling, and transit for vibrant cities"
   params:
-    ### accessibility ###
-    accessibility:
-      skip_text: "Skip to content"
-      help_text: "Accessibility Statement"
-      help_url: "/example-page/"
     ### calls to action ###
     main_cta:
-      text: "Join"
-      link: "/example-page/"
+      text: "Get involved"
+      link: "/join/"
     footer_cta:
-      text: "Join us"
-      link: "/example-page/"
+      text: "Get involved"
+      link: "/join/"
     github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
@@ -28,7 +23,7 @@ en:
       weight: 1
     - identifier: "strong-towns-hfx"
       name: "Strong Towns Halifax"
-      url: "/example-page/"
+      url: "/about/strong-towns-halifax"
       weight: 1
       post: "What is Strong Towns Halifax?"
       parent: "about"
@@ -38,37 +33,21 @@ en:
       weight: 2
       post: "What is the non profit Strong Towns."
       parent: "about"
-    - identifier: "example"
+    - identifier: "projects"
       name: "Projects"
       url: "/example-page/"
       weight: 2
-    - identifier: "example-1"
-      name: "Maps"
-      url: "/example-page/"
+    - identifier: "start-up"
+      name: "Build up"
+      url: "/projects/start-up"
       weight: 1
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "example"
-    - identifier: "example-2"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 2
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "example"
-    - identifier: "example-3"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 3
-      post: "Aenean commodo ligula get dolor. Aenean massa. "
-      parent: "example"
-    - identifier: "demo-page"
-      name: "Demo Page"
-      url: "/demo-page/"
-      weight: 3
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
-      weight: 4
+      post: "Building up Strong Towns Halifax"
+      parent: "projects"
     - identifier: "blog"
       name: "Blog"
       url: "/blog/"
       weight: 5
+    - identifier: "contact"
+      name: "Contact"
+      url: "/contact/"
+      weight: 6
