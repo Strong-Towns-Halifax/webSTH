@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.04019,0,0,1.03846,-1.99549,-2.91061)">
+        <circle cx="17.3" cy="18.21" r="15.273" style="fill:rgb(12,35,64);"/>
+    </g>
+    <g transform="matrix(0.436469,0,0,0.516658,-2.28541,2.42983)">
+        <text x="11.871px" y="36.737px" style="font-family:'Georgia', serif;font-size:30.163px;fill:rgb(255,184,77);">STH</text>
+    </g>
+</svg>
