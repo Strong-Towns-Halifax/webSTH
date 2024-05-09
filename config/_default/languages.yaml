@@ -23,13 +23,13 @@ en:
       weight: 1
     - identifier: "strong-towns-hfx"
       name: "Strong Towns Halifax"
-      url: "/about/strong-towns-halifax"
+      url: "/strong-towns-halifax"
       weight: 1
       post: "What is Strong Towns Halifax?"
       parent: "about"
     - identifier: "strong-towns"
       name: "Strong Towns"
-      url: "/about/strong-towns"
+      url: "/strong-towns"
       weight: 2
       post: "What is the non profit Strong Towns."
       parent: "about"
@@ -39,7 +39,7 @@ en:
       weight: 2
     - identifier: "start-up"
       name: "Build up"
-      url: "/projects/start-up"
+      url: "/start-up"
       weight: 1
       post: "Building up Strong Towns Halifax"
       parent: "projects"
