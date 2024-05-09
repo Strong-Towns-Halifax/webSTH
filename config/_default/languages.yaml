@@ -43,6 +43,10 @@ en:
       weight: 1
       post: "Building up Strong Towns Halifax"
       parent: "projects"
+    - identifier: "events"
+      name: "Events"
+      url: "/events/"
+      weight: 4
     - identifier: "blog"
       name: "Blog"
       url: "/blog/"

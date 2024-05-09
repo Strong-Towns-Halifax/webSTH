@@ -1,1 +1,10 @@
-<svg width="51" height="52" viewBox="0 0 51 52" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M25.323 51.015c13.824 0 25.03-11.207 25.03-25.031 0-13.824-11.206-25.03-25.03-25.03C11.5.953.293 12.16.293 25.983c0 13.824 11.206 25.03 25.03 25.03Z" fill="#A1D33C"/><path d="M19.179 35.8c-.4 1.303-.931 2.021-2.66 2.021-1.49 0-2.128-.559-2.128-1.49 0-.292.053-.611.16-.93l5.958-20.908c.399-1.33.93-2.022 2.633-2.022 1.516 0 2.181.559 2.181 1.463 0 .32-.106.639-.186.984L19.179 35.8Zm11.438 0c-.4 1.303-.931 2.021-2.66 2.021-1.49 0-2.128-.559-2.128-1.49 0-.292.053-.611.16-.93l5.958-20.908c.399-1.33.93-2.022 2.633-2.022 1.516 0 2.181.559 2.181 1.463 0 .32-.106.639-.186.984L30.617 35.8Z" fill="#fff"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.04019,0,0,1.03846,-1.99549,-2.91061)">
+        <circle cx="17.3" cy="18.21" r="15.273" style="fill:rgb(12,35,64);"/>
+    </g>
+    <g transform="matrix(0.436469,0,0,0.516658,-2.28541,2.42983)">
+        <text x="11.871px" y="36.737px" style="font-family:'Georgia', serif;font-size:30.163px;fill:rgb(255,184,77);">STH</text>
+    </g>
+</svg>
