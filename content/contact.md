@@ -5,7 +5,7 @@ draft = false
 +++
 
 ## By email
-We will get back to you as soon as possible, do note however that we are a vonlonteer run organization. 
+We will get back to you as soon as possible, do note however that we are a volunteer run organization. 
 - [strongtownshalifax@gmail.com](mailto:strongtownshalifax@gmail.com)
 
 ## Social Media
